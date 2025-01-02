@@ -2,7 +2,7 @@
 
 <h3>Ferramentas utilizadas:</h3>
 
-OS Kali Linux <br>
+SO Kali Linux <br>
 Comando: setoolkit
 
 <h3>Configurando o Phishing no Kali Linux</h3>
