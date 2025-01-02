@@ -1,13 +1,11 @@
-# Phishing-com-Kalil-Linux
-Utilizando Phishing para captura de senhas do Facebook
+# Phishing para captura de senhas do Facebook com Kalil Linux
 
-
-Ferramentas utilizadas:
+<h3>Ferramentas utilizadas:</h3>
 
 OS Kali Linux <br>
 Comando: setoolkit
 
-Configurando o Phishing no Kali Linux
+<h3>Configurando o Phishing no Kali Linux</h3>
 
 Comando de acesso root: sudo su <br>
 Iniciando a ferramenta de engenharia social: setoolkit <br>
@@ -18,6 +16,6 @@ Método de ataque: Site Cloner (2) <br>
 Obtendo o endereço da máquina: ifconfig <br>
 URL para clone: http://www.facebook.com
 
-Print dos resutados:
+<h4>Print dos resutados:</h4>
 
 ![kalil phishing](https://github.com/user-attachments/assets/9ab5725c-90d5-43bb-be44-aa1c412a4f8a)
